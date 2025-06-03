@@ -26,6 +26,12 @@ To function properly, **HL-Proxy requires your original gate/garage remote**:
 - The Arduino uses the opto-transistor to **simulate a button press** without altering the original circuit.
 - This approach ensures **safe, reliable, and universal compatibility** without reverse-engineering the RF protocol.
 
+### Disclaimer
+
+This project is provided **"as is"**, without warranty of any kind.  
+The author **assumes no responsibility** for any damage, malfunction, or other consequences arising from the use, misuse, or inability to use this software or hardware design.  
+Use it **at your own risk**.
+
 ---
 
 **License:** CC BY 4.0
