@@ -32,6 +32,8 @@ This project is provided **"as is"**, without warranty of any kind.
 The author **assumes no responsibility** for any damage, malfunction, or other consequences arising from the use, misuse, or inability to use this software or hardware design.  
 Use it **at your own risk**.
 
+![HL-Proxy device view](photos/1.jpg)
+![HL-Proxy device view](photos/2.jpg)
 ---
 
 **License:** CC BY 4.0
